@@ -1,3 +1,5 @@
+fruit
+
 bananas
 coke
 thumpsup
@@ -6,3 +8,13 @@ wheat
 rice
 soyabean
 washing powder
+
+vegetables
+
+meat
+
+dairy
+
+household
+
+pets
