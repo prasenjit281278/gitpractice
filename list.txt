@@ -22,6 +22,11 @@ fish
 turkey
 
 dairy
+milk
+youghurt
+egg
+butter 
+cheese
 
 household
 
