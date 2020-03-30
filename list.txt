@@ -16,6 +16,11 @@ meat
 susages
 
 dairy
+milk
+youghurt
+egg
+butter 
+cheese
 
 household
 
